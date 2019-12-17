@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 # 
 
-name: 云编译2.0_x86_X64
+name: 云编译1.0_x86_X64
 
 on:
   schedule:
